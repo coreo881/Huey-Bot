@@ -5,5 +5,7 @@ This is a template for a Discord bot that speaks to your Philips Hue light bulbs
 
 Here is [the tutorial](https://www.youtube.com/watch?v=024upsEuHaU&t=1s) I'm basing all of this on.  I'm basically copying everything he's doing up until the commands and Hue functionality.  It's a very good tutorial.
 
+Also you can grab all of the packages by typing **npm install** in your command line/terminal.
+
 **Enjoy**
 
