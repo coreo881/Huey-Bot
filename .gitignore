@@ -2,3 +2,4 @@
 /_ignore_cmds/
 /unused cmds/
 *.txt
+package-lock.json
